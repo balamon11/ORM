@@ -52,7 +52,8 @@ models.py
         list_display = ('car_brand', 'car_model', 'year', 'color', 'engine_type', 'fuel_type', 'transmission', 'seating_capacity', 'price', 'description')
 #OUTPUT
             
-        <img width="1920" height="1080" alt="Screenshot 2025-09-28 001542" src="https://github.com/user-attachments/assets/78191d10-da1e-40e0-9599-ed26e7b1db1a" />
+   <img width="1920" height="1080" alt="491995540-d9619544-78ef-4104-8a47-ed64ebdb0cc7" src="https://github.com/user-attachments/assets/2d5b2862-0ba1-4ca3-bc1f-dd3a3c083518" />
+
 
 
 # RESULT
